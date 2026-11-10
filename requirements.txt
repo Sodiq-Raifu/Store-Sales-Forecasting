@@ -1,9 +1,15 @@
 # Check the version used with the code 
 # python -m pip show numpy pandas scikit-learn fastapi uvicorn
 
-numpy == 2.5.4
-pandas == 3.1.0
-scikit-learn == 1.5.1
-fastapi == 0.162.0
-uvicorn == 0.54.0
-xgboost == 3.4.1
+
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.5.1
+fastapi==0.162.0
+uvicorn==0.54.0
+xgboost==3.4.1
+streamlit
+requests
+plotly
+seaborn
+matplotlib
